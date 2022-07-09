@@ -1,0 +1,26 @@
+/* RESETTING STYLES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* SECTION-1 */
+.section-1 h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.section-1 a{
+  color:aquamarine;
+  font-size: 16px;
+}
