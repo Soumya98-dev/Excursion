@@ -20,12 +20,27 @@ html {
   padding-bottom: 30px;
 }
 
-.section-1 a{
-  color:aquamarine;
+.section-1 a {
+  color: aquamarine;
   font-size: 16px;
 }
 
 /* SECTION-2 */
-video{
+video {
   margin-top: 30px;
+  padding-bottom: 32px;
+}
+
+/* SECTION-3 */
+.section-3 h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  padding-bottom: 30px;
+}
+
+.section-3 h4{
+  color: gray;
+  font-size: 21px;
+  padding-bottom: 22px;
 }
