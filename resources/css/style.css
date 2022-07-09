@@ -50,6 +50,7 @@ video {
 .section-3 img{
   max-width: 100%;
   height: auto;
+  border: 1px solid aquamarine;
 }
 
 .section-4 h5{
